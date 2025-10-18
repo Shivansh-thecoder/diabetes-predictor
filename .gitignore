@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pkl
+*.pyc
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+frontend/__pycache__/
+frontend/.streamlit/
